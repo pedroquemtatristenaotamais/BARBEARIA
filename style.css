@@ -1,0 +1,22 @@
+body {
+    background-color: #ffffff;
+}
+
+p {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+#benef {
+    color: rgb(0, 0, 0);
+}
+
+#tittle {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+li {
+    color: rgb(0, 0, 0);
+    margin-left: auto;
+}
